@@ -1,4 +1,4 @@
-# Active-Directory-Lab
+# Active-Directory/SIEM Lab
 Active Directory Domain to simulate managing user accounts and monitoring activity within the domain. 
 
 This purpose of this project was to expose myself to hands-on experience with IT administration and build a splunk instance to gather telemetry attached to the domain and target machine. I wanted to extend the project beyond the typical AD deployment and implement an attacking machine within the network to demonstrate how sysmon and splunk work together to gather and deliver security events I configure within an input.conf file. I will also demonstrate how this configuration can be used to conduct vulnerability assesments using AtomicRedTeam. I plan to have another project that gets deeper into the configuration of the Active Directory server and the users within the domain to simulate a real-world environment. This project mainly focuses on the presence of a SIEM within the domain and how it can be used to identify important security events. I will edit this README once the project is finished and create a new repository for it.
